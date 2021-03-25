@@ -1,2 +1,2 @@
-# Jogo de par ou impar
+# Jogo de par ou ímpar
  jogue par ou ímpar com o pc
